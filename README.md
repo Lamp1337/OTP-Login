@@ -9,5 +9,8 @@ so if you exit it will generate new passcode.
 
 and you can change how long the passcode on line 8.
 
+# Requirement
+pip install dhooks
+
 # Note
 Dont sell this code because this FREE
